@@ -1,2 +1,3 @@
-*.doc *.txt
-file.java
+*.doc 
+*.txt
+*.java
